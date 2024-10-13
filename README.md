@@ -7,7 +7,7 @@ A new Flutter project.
 
 🎥 Upload a brief video showcasing your project. 
 
-![Screenshot from 2024-10-13 17-53-37](https://hackmd.io/_uploads/ryD-kDKJJl.png)
+![Screenshot from 2024-10-13 17-53-37](images/profilepage.png)
 
 
 Good luck, and happy coding! 🚀💻
